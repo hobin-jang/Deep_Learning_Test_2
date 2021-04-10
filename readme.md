@@ -1,35 +1,4 @@
-밑바닥부터 시작하는 딥러닝 2
-
-목표 : 3월 되기 전에 끝내기
+밑바닥부터 시작하는 딥러닝 2 공부
 
 코드 참고 :  https://github.com/WegraLee/deep-learning-from-scratch-2
 
-일지
-
-~21.01.21 chapter 1
-
-~21.01.22 chapter 2.3
-
-~21.01.23 X
-
-~21.01.24 chapter 3.3
-
-~21.01.25 X
-
-~21.01.26 chapter 4.2
-
-~21.01.27 chapter 5.1
-
-~21.01.28 chapter 5.6
-
-~21.01.29 chapter 6.4
-
-~21.01.30 chapter 7.1
-
-~21.01.31 chapter 7.6
-
-~21.02.01 chapter 8.1
-
-~21.02.02 ~ 05 X
-
-~21.02.06 chapter 8.6
